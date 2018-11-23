@@ -25,8 +25,6 @@
 #include <ESP8266WiFi.h>
 #endif
 
-#include <DNSServer.h>
-#include <ESP8266WebServer.h>
 #include <WiFiManager.h>
 #include <fauxmoESP.h>
 
